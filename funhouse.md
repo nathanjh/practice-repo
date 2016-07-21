@@ -1,5 +1,5 @@
 #Funhouse
-*Come on in!*
+*Howdy, Bucko! Come on in!*
 
 ##Features
 * Pop Bumpers
