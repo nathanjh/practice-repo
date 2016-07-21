@@ -1,5 +1,5 @@
 #Funhouse
-*Come on in!*
+_**FUNHOUSE?!?** Ah ha ha ha ha ha ha!!!_
 
 ##Features
 * Pop Bumpers
